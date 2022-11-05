@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/OS_Scheduler
+/x64/Debug
+/OS_Scheduler/.vs
+/OS_Scheduler/x64/Debug
+/OS_Scheduler/OS_Scheduler.vcxproj.user
